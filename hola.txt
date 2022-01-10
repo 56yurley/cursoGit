@@ -1,2 +1,3 @@
-hola
-como estas
+Tutorial de git 
+
+un merge permite unir los cambios de una rama con otra 
