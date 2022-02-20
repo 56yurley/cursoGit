@@ -2,4 +2,4 @@ Tutorial de git
 
 un merge permite unir los cambios de una rama con otra 
 el staging area es un estado temporal en donde se guardan los archivos con add antes de hacer un commit,
-después de esto el archivo pasa al repositorio
+después de esto el archivo pasa al repositorio  
